@@ -1,0 +1,6 @@
+{
+  "name": "中考成绩查询模拟系统",
+  "description": "模拟中考成绩查询界面的应用程序",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
